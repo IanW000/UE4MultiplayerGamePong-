@@ -1,4 +1,4 @@
-Pong! - Ian Wang
+Pong! - Ian Wang - Solo dev
 UE Ver. 4.24.3
 ------------------------------------------------------------------------------------
 Total work time: 16 hrs 
@@ -44,4 +44,4 @@ C++ Source Code → KavtekAssignment/Source
 Most functions were implemented in → KavtekAssignment/Source/CPPGameInstance
 ------------------------------------------------------------------------------------
 Important!
-If you run the full project in Unreal Engine, it may not be able to access/transfer data from Firebase correctly because the folder doesn't include google-services.json file (which holds my Firebase account information)
+If you run the this project in Unreal Engine, it may not be able to access/transfer data from Firebase correctly because this project folder doesn't include google-services.json file (which holds my Firebase account information)
