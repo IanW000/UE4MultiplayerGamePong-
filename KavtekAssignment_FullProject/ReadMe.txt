@@ -1,17 +1,17 @@
-Pong! - Ian Wang - Solo dev
+#  Pong! - Ian Wang - Solo dev
 UE Ver. 4.24.3
 ------------------------------------------------------------------------------------
-Total work time: 16 hrs 
+##Total work time: 16 hrs 
 · 10hrs - implemented multiplayers & realtime database functions with C++  
 · 4hrs - built UI with Blueprint 
 · 2hrs - built Pong! gameplay with C++ & BP)
 ------------------------------------------------------------------------------------
-Primary Features:
+##Primary Features:
 · No Plug-ins or Unreal Assets were used
 · Multiplayer - listen server (not on LAN)
 · Transfer/Read sessions & leaderboard data from Firebase realtime database
 ------------------------------------------------------------------------------------
-Details:
+##Details:
 · C++ Aspect
     -Have a function to collect a users ip address
     -Have a host game function. This will add the user's IP address and Lobby Name to a section in
@@ -39,9 +39,9 @@ Details:
     3. Player To Enters a waiting screen.
     4. When Test UI has been submitted send back to main menu.
 ------------------------------------------------------------------------------------
-Realtime database video demo → KavtekAssignment/KavTekAssignmentDemo  or   https://www.youtube.com/watch?v=B54pHLkNOaY
+##Realtime database video demo → KavtekAssignment/KavTekAssignmentDemo  or   https://www.youtube.com/watch?v=B54pHLkNOaY
 C++ Source Code → KavtekAssignment/Source
 Most functions were implemented in → KavtekAssignment/Source/CPPGameInstance
 ------------------------------------------------------------------------------------
-Important!
+##Important!
 If you run the this project in Unreal Engine, it may not be able to access/transfer data from Firebase correctly because this project folder doesn't include google-services.json file (which holds my Firebase account information)
