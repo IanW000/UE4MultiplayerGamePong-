@@ -1,4 +1,4 @@
-#  Pong! - Ian Wang - Solo dev
+Pong! - Ian Wang - Solo dev
 UE Ver. 4.24.3
 ------------------------------------------------------------------------------------
 ##Total work time: 16 hrs 
